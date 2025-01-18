@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chipyoka
-- 👀 I’m interested in Software Development, Machine Learning and Data Analytics.
+- 👀 I’m interested in Software Development, Cloud Solutions, and Machine Learning.
 - 🌱 I’m currently learning Information Techonology with focus on Web and Desktop Application Development.
 - 💞️ I’m looking to collaborate on Python and JavaScript projects so I can further my understanding.
 - 📫 How to reach me you can email me mwapechipyoka18@gmail.com
