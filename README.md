@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chipyoka
-- 👀 I’m interested in Software Development, Cloud & Automation Solutions, as well as Machine Learning.
+- 👀 I’m currently providing solutions to do with Software Development, Cloud & Automation, as well as Machine Learning.
 - 💞️ I’m open for collaborations on projects within my interest areas mentioned above.
 - 📫 How to reach me you can email me mwapechipyoka18@gmail.com
 - 😄 Pronouns: Him/He
