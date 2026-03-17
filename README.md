@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Chipyoka
-- 👀 I’m currently providing solutions to do with Software Development, Cloud & Automation, as well as Machine Learning.
-- 💞️ I’m open for collaborations on projects within my interest areas mentioned above.
-- 📫 How to reach me you can email me mwapechipyoka18@gmail.com
+- 👋 Hi, I’m Chipyoka
+- 👀 I’m currently building tailored solutions for small and medium businesses.
+- 💞️ I’m open for collaborations on projects within my interest areas (Cloud, AI, ML, and Networking).
+- 📫 How to reach me, email mwapechipyoka18@gmail.com
 - 😄 Pronouns: Him/He
 
 
